@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Web development and design
 - 💞️ I’m looking to collaborate on a team of learners
-- 📫 How to reach me #Presh798
+- 📫 How to reach me gitHub.com/presh798
 
 <!---
 Presh798/Presh798 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
